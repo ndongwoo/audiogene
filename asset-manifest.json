@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/audiogene/static/css/main.e6c13ad2.css",
-    "main.js": "/audiogene/static/js/main.98c99d85.js",
+    "main.js": "/audiogene/static/js/main.6bf46df0.js",
     "static/js/453.4ab05def.chunk.js": "/audiogene/static/js/453.4ab05def.chunk.js",
     "index.html": "/audiogene/index.html",
     "main.e6c13ad2.css.map": "/audiogene/static/css/main.e6c13ad2.css.map",
-    "main.98c99d85.js.map": "/audiogene/static/js/main.98c99d85.js.map",
+    "main.6bf46df0.js.map": "/audiogene/static/js/main.6bf46df0.js.map",
     "453.4ab05def.chunk.js.map": "/audiogene/static/js/453.4ab05def.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.98c99d85.js"
+    "static/js/main.6bf46df0.js"
   ]
 }
